@@ -1,6 +1,11 @@
 # Taxis analysis
 
 
+## Goals
+
+- Find the most profitable time of the day to work and location to work.
+- Do general analysis
+
 ```
 project/
 ├── data/
